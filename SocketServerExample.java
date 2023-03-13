@@ -9,7 +9,7 @@ import java.net.Socket;
 
 /**
  * This class implements java Socket server
- * @author pankaj
+ * @author Genos
  *
  */
 public class SocketServerExample {
