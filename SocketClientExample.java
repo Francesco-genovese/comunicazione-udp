@@ -9,7 +9,7 @@ import java.net.UnknownHostException;
 
 /**
  * This class implements java socket client
- * @author pankaj
+ * @author Genos
  *
  */
 public class SocketClientExample {
